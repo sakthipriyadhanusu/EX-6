@@ -52,7 +52,12 @@ while True:
 
 ## OUTPUT :
 ## CLIENT:
-![Uploading image.png…]()
+![image](https://github.com/sakthipriyadhanusu/EX-6/assets/119393194/9e52b4b0-9cad-4444-ae95-f9aea141232d)
+![image](https://github.com/sakthipriyadhanusu/EX-6/assets/119393194/b7618130-2b44-4322-a489-76113433bbd6)
+
+## RESULT:
+Thus, the python program for simulating ping command was successfully executed.
+
 
 
 
